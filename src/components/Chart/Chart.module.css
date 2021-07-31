@@ -4,8 +4,15 @@
     width:85%;
 }
 
+.bar{
+    width:85% !important;
+}
+
 @media (max-width:770px){
     .container{
         width:100%;
+    }
+    .bar{
+        width:100% !important;
     }
 }
